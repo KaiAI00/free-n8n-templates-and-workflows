@@ -77,6 +77,3 @@ Don't let technical bottlenecks hold your business back. Automate like a 10x dev
 Found a bug or want to add your own n8n template? Feel free to open a Pull Request! 
 
 If these templates saved you hours of manual building, **please drop a ⭐ Star** to support this project!
-
----
-*Maintained with ❤️ by [@KaiAI00](https://github.com)*
